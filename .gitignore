@@ -1,0 +1,5 @@
+.idea/
+venv/
+logger.txt
+logger_new.txt
+test_01.py
